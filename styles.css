@@ -177,7 +177,7 @@ h1 {
 }
 
 .footer {
-    background: linear-gradient(to right, #1ed760, #2d9bf0); /* Substitua as cores pelo seu gradiente desejado */
+    background: linear-gradient(to right, #1ed760, #2d9bf0); 
     color: #fff;
     text-align: center;
     padding: 5px;
